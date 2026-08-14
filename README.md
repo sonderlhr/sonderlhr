@@ -57,9 +57,6 @@ Novos projetos serão adicionados conforme avanço nos estudos.
 
 ---
 
-
----
-
 # Objetivo
 
 Estou construindo minha trajetória na tecnologia um commit de cada vez, buscando transformar aprendizado em experiência e contribuir para projetos que façam diferença.
